@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 import java.util.HashMap;
 
-public class Converter {
+public class Currency {
 
 private String name;
 
